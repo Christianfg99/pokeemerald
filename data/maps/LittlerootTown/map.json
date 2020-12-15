@@ -17,6 +17,11 @@
       "direction": "up",
       "offset": 0,
       "map": "MAP_ROUTE101"
+    },
+    {
+      "direction": "down",
+      "offset": -20,
+      "map": "MAP_LITTLEROOT_BEACH"
     }
   ],
   "object_events": [
