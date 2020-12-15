@@ -2,7 +2,7 @@
   "id": "MAP_LITTLEROOT_BEACH",
   "name": "LittlerootBeach",
   "layout": "LAYOUT_LITTLEROOT_BEACH",
-  "music": "MUS_ABANDONED_SHIP",
+  "music": "MUS_LITTLEROOT",
   "region_map_section": "MAPSEC_LITTLEROOT_TOWN",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
